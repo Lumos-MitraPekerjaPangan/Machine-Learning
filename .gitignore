@@ -1,3 +1,5 @@
 .env
 *.json
 *.png
+*.joblib
+__pycache__
